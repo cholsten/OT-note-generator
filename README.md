@@ -1,1 +1,1 @@
-# OT-note-generator
+# OT Note Generator
